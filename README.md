@@ -10,13 +10,14 @@ This README:
 
 ------------------------------------------
 cool visual:
-          *****        <- high-energy shell (red)
-       *         *
-     *             *
-    *       O       *   <- central magnetic-like force
-     *             *
-       *         *
-          *****    <- low-energy shell (blue)
+             *****        <- high-energy shell (red)
+       *                *
+     *                    *
+    *          O           *   <- central magnetic-like force
+     *                    *
+       *                *
+             *****        <- low-energy shell (blue)
+
 
 ------------------------------------------
 
@@ -60,3 +61,7 @@ Particles move freely, collide elastically, and can be optionally influenced by 
  ## Build Instructions
  
  Simply clone this repository and it should work just fine, there is already a built file provided (.exe), which works on Windows.
+
+ ## Side note:
+
+ It should be mentioned that this project used minimal AI for it's making and that this is the first time I have used raylib. The project's use was to get me more acquainted with raylib. Thanks for understanding :) 
