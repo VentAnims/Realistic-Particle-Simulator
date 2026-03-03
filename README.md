@@ -10,6 +10,7 @@ This README:
 
 ------------------------------------------
 cool visual:
+```
              *****        <- high-energy shell (red)
        *                *
      *                    *
@@ -18,7 +19,7 @@ cool visual:
        *                *
              *****        <- low-energy shell (blue)
 
-
+```
 ------------------------------------------
 
 # Realistic Particle Simulation
