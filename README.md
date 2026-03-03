@@ -10,13 +10,12 @@ This README:
 
 ------------------------------------------
 cool visual:
-
-              *****        <- high-energy shell (red)
-       *                 *
-     *                       *
-    *          O             *   <- central magnetic-like force
-     *                       *
-       *                 *
+          *****        <- high-energy shell (red)
+       *         *
+     *             *
+    *       O       *   <- central magnetic-like force
+     *             *
+       *         *
           *****    <- low-energy shell (blue)
 
 ------------------------------------------
