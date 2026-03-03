@@ -51,7 +51,7 @@ Particles move freely, collide elastically, and can be optionally influenced by 
  
  ------------------------------------------
  
- ## Requirements
+ ## Requirements to build it yourself
  
 - [Raylib](https://www.raylib.com/) (C library for graphics and input)  
 - [Raygui](https://github.com/raysan5/raygui) (included in project)  
